@@ -1,4 +1,4 @@
-# roo
+# roo [![Build Status](https://travis-ci.org/istrwei/roo.svg?branch=develop)](https://travis-ci.org/istrwei/roo)
 
 美观大气的论坛社区，Blade倾情打造，敬请期待。
 
